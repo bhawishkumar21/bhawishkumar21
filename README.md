@@ -19,7 +19,7 @@ I'm a passionate Python programmer
 
 Here are some of the projects I've worked on:
 
-- [Project 1 Name](link to project 1)
+- [hospital management system](https://github.com/bhawishkumar21/hospital-management-system.git)
 
 
 ## 📫 Let's Connect
