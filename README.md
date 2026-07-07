@@ -11,8 +11,6 @@ I'm a passionate Python programmer
 ## 🛠️ Skills
 
 - Python
-- Data Analysis and Visualization
-- Machine Learning
 - Web Development with Flask/Django
 
 ## 📂 My GitHub Projects
